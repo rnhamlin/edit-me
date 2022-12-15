@@ -1,2 +1,13 @@
-# Text Editor Starter Code
 # edit-me
+
+## Description
+
+## Installation
+
+## Usage
+
+## Screenshot
+
+## Video Walkthrough
+
+##
